@@ -91,14 +91,3 @@ Amazon-E-Commerce-Analysis/
 4. Run queries section by section
 5. Open `amazon_dashboard.pbix` in Power BI Desktop to view the dashboard
 
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enugu-saketh-reddy-21k91a6631)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakethsiju63@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakethsiju)
-
----
-
-*Part of my Data Analyst portfolio — analyzing real-world datasets to drive business decisions.*
