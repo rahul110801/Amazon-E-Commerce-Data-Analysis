@@ -80,14 +80,5 @@ Amazon-E-Commerce-Analysis/
 
 ---
 
-## 🚀 How to Run This Project
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Sakethsiju/Amazon-E-Commerce-Analysis.git
-   ```
-2. Open `amazon_analysis.sql` in any SQL editor (MySQL Workbench, pgAdmin, DBeaver)
-3. Load `amazon_orders.csv` as your data source
-4. Run queries section by section
-5. Open `amazon_dashboard.pbix` in Power BI Desktop to view the dashboard
-
+Email : rahulchowdhury239@gmail.com
+LinkedIn: www.linkedin.com/in/rahul-chowdhary-analyst11
